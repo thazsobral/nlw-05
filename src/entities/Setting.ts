@@ -22,6 +22,6 @@ class Setting {
     constructor() {
         if(!this.id) this.id = uuid();
     }
-}
+};
 
-export { Setting }
+export { Setting };
