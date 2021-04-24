@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:nlw-05}/src/database/database.sqlite",
+            "name": "SQLite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
