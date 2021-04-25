@@ -1,10 +1,19 @@
 # Chat-support
 
-## Descrição
+
+<p align="center">
+  <a href="#description">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#demonstration">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installation">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#folders-structure">Estrutura de pastas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#annotatios">Anotações de desenvolvimento</a>
+</p>
+
+## Descrição<a id="description"></a>
 
 Aplicação de chat desenvolvida na Next Level Week 05. O chat desenvolvido nesta NLW têm como objetivo ser utilizado para atendimento entre cliente e suporte.
 
-## Demonstração
+## Demonstração<a id="demonstration"></a>
 - Front-end admin
 
 ![site-admin](/readme/images-print/site-admin.png)
@@ -13,7 +22,7 @@ Aplicação de chat desenvolvida na Next Level Week 05. O chat desenvolvido nest
 ![site-client-01](/readme/images-print/site-client-01.png)
 ![site-client-02](/readme/images-print/site-client-02.png)
 
-## Instalação
+## Instalação<a id="installation"></a>
 Segue os passos para o clone e ajuste do projeto para desenvolvimento.
 1. Baixe o projeto
 ```bash
@@ -32,7 +41,7 @@ npm install
 yarn dev
 ```
 
-## Estrutura de pastas
+## Estrutura de pastas<a id="folders-structure"></a>
 
 - **public**: arquivos do client-side
     - **css**: arquivos de estilização do html.
@@ -49,5 +58,5 @@ yarn dev
     - **services**: arquivos de serviço (regras de negócio).
     - **websocket**: arquivos de conexão websocket entre o server-side e o client-side.
 
-## Anotações do projeto
+## Anotações de desenvolvimento<a id="annotatios"></a>
 Para acessar minhas anotações desta NLW acesse este [link](/readme/anotation/anotation.md).
