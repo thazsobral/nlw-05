@@ -1,4 +1,4 @@
-# Chat-for-support
+# Chat-support
 
 ## Descrição
 
