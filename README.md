@@ -48,4 +48,4 @@ yarn dev
     - **websocket**: arquivos de conexão websocket entre o server-side e o client-side.
 
 ## Anotações do projeto
-Para acessar minhas anotações desta NLW acesse este [link](~/readme/anotation/anotation.md).
+Para acessar minhas anotações desta NLW acesse este [link](/readme/anotation/anotation.md).
