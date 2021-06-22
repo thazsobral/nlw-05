@@ -1,4 +1,4 @@
-# *Next Level Week #5 - Node.js
+# Next Level Week #5 - Node.js
 
 > Maratona ministrada pela [Daniele Leao Evangelista](https://www.youtube.com/c/DanieleLeaoEvangelista/featured) da [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos).
 
